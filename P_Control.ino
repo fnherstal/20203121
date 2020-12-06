@@ -19,7 +19,7 @@
 
 // Servo speed control
 #define _SERVO_ANGLE 30.0 // [3114] 서보각도
-#define _SERVO_SPEED 120.0 //[3104] 서보속도
+#define _SERVO_SPEED 150.0 //[3104] 서보속도
 
 // Event periods
 #define _INTERVAL_DIST 20 //[3099] 각 event 사이에 지정한 시간 간격
